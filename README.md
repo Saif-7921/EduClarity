@@ -10,7 +10,7 @@ It acts as a **24/7 AI mentor**, helping students learn smarter, track progress,
 
  🌟 Live Demo
 
-🔗 [https://educlarity-ai.vercel.app/](https://educlarity-ai.vercel.app/)
+🔗 [https://educlarity-ai.vercel.app/](https://educlarityai.vercel.app)
 
 ---
 
